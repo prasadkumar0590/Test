@@ -1,7 +1,7 @@
 This is for testing
 
 This is test one.
-This is middle
+This is middle.
 
 This is second line
 
